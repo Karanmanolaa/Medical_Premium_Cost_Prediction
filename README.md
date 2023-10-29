@@ -29,6 +29,6 @@ for different purpose like
 - Challenges: Limit data
 - Solutions : Utilized models like Random Forest (with tuned hyperparameters) that are robust and less prone to overfitting, making the model more reliable when dealing with limited data.
 
-  # 4- Visualizations:
+# 5 - Visualizations:
 
   
