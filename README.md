@@ -43,16 +43,20 @@ for different purpose like
 ![Medical images](https://github.com/Karanmanolaa/Medical_cost_premium_prediction/assets/144649975/74729565-dbe8-48f3-add2-a32519b59578)
 
 
-# Correlation Matrix
+### Correlation Matrix
 
 ![med corr](https://github.com/Karanmanolaa/Medical_cost_premium_prediction/assets/144649975/87b4fce2-0873-418a-a0b0-f7271a0731cd)
 
 
 ### Premium Price is divided into categories like low,basic,average,high and superhigh
 
+### Categorize 'Age' and 'PremiumPrice' into labels for easier analysis and visualization
+
+
 ![med](https://github.com/Karanmanolaa/Medical_cost_premium_prediction/assets/144649975/42ba69d9-1105-48cd-8361-add39a715fd7)
 
 
+### Number of people opted for insurance based on premium-category after transplants
 
 ![medical](https://github.com/Karanmanolaa/Medical_cost_premium_prediction/assets/144649975/0c962376-aeac-4ec9-92a1-928204d28e40)
 
