@@ -1,5 +1,11 @@
 # Project 2 - Medical_cost_price_prediction
 
+![high-health-care-costs-850x476](https://github.com/Karanmanolaa/Medical_cost_premium_prediction/assets/144649975/73c4a492-3fe9-4cbd-9bc6-c953400518af)
+
+
+![cee74642dc5bff63684290a0eb80e1f9](https://github.com/Karanmanolaa/Medical_cost_premium_prediction/assets/144649975/696d945b-7281-436b-b220-017e170ac757)
+
+
 # Table of Content
 - Overview
 - Problem Statement and Motivation
