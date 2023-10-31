@@ -51,16 +51,11 @@ for different purpose like
 ### Number of people opted for insurance based on premium-category on the basis of transplant history
 
 
-
-![med](https://github.com/Karanmanolaa/Medical_cost_premium_prediction/assets/144649975/42ba69d9-1105-48cd-8361-add39a715fd7)
-
-
-### Number of people opted for insurance based on premium-category after transplants
-
 ![medical](https://github.com/Karanmanolaa/Medical_cost_premium_prediction/assets/144649975/0c962376-aeac-4ec9-92a1-928204d28e40)
 
 
 
+![med](https://github.com/Karanmanolaa/Medical_cost_premium_prediction/assets/144649975/42ba69d9-1105-48cd-8361-add39a715fd7)
 
 
 
