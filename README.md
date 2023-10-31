@@ -54,12 +54,12 @@ for different purpose like
 ![medical](https://github.com/Karanmanolaa/Medical_cost_premium_prediction/assets/144649975/0c962376-aeac-4ec9-92a1-928204d28e40)
 
 
-
+#### Avg. price paid by people in each age category for their health insurance
 ![med](https://github.com/Karanmanolaa/Medical_cost_premium_prediction/assets/144649975/42ba69d9-1105-48cd-8361-add39a715fd7)
 
 
 
-
+#### Number of people opted for insurance based on premium-category after how many surgeries:
 ![medic](https://github.com/Karanmanolaa/Medical_cost_premium_prediction/assets/144649975/f94da23d-d3d2-416e-bea8-e9176e5a208a)
 
 
