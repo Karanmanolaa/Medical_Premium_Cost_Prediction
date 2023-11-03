@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Premium Cost Prediction</title>
+</head>
+<body>
+    <h1>Medical Premium Cost Prediction</h1>
+    <form action="/predict" method="post">
+        <label for="Age">Age:</label>
+        <input type="number" name="Age" required><br>
+
+        <label for="Diabetes">Diabetes (1 for yes, 0 for no):</label>
+        <input type="number" name="Diabetes" required><br>
+
+        <label for="BloodPressureProblems">Blood Pressure Problems (1 for yes, 0 for no):</label>
+        <input type="number" name="BloodPressureProblems" required><br>
+
+        <label for="AnyTransplants">Any Transplants (1 for yes, 0 for no):</label>
+        <input type="number" name="AnyTransplants" required><br>
+
+        <label for="AnyChronicDiseases">Any Chronic Diseases (1 for yes, 0 for no):</label>
+        <input type="number" name="AnyChronicDiseases" required><br>
+
+        <label for="Height">Height (in cm):</label>
+        <input type="number" name="Height" required><br>
+
+        <label for="Weight">Weight (in kg):</label>
+        <input type="number" name="Weight" required><br>
+
+        <label for="KnownAllergies">Known Allergies (1 for yes, 0 for no):</label>
+        <input type="number" name="KnownAllergies" required><br>
+
+        <label for="HistoryOfCancerInFamily">History of Cancer in Family (1 for yes, 0 for no):</label>
+        <input type="number" name="HistoryOfCancerInFamily" required><br>
+
+        <label for="NumberOfMajorSurgeries">Number of Major Surgeries:</label>
+        <input type="number" name="NumberOfMajorSurgeries" required><br>
+
+        <input type="submit" value="Predict Premium Price">
+    </form>
+</body>
+</html>
