@@ -1,4 +1,4 @@
-# Project 2 - Medical_cost_price_prediction
+# Project 2 - Medical_premium_cost_prediction
 
 # Table of Content
 - Overview
