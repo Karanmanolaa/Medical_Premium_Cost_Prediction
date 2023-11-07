@@ -23,9 +23,10 @@ for different purpose like
 - Performed Explolatory data analysis using matplotlib and seaborn.
 - Created new feature (feature engineering) age bins.
 - I tried several models like Linear regression,decision trees.
-- Used hyperparameter tuning and got the best model RandomForestRegressor with r2 score of 0.8080 and
--  MSE: 7386012.305294765
--  MAE: 1069.7527665859436
+- Used hyperparameter tuning and got the best model RandomForestRegressor with
+- Mean Squared Error (MSE): 7073299.0357
+- Mean Absolute Error (MAE): 1028.2545
+- R-squared (R2) Score: 0.8161
 
 # 4 - Challenges and Solutions:
 - Challenges: Limit data
