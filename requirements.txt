@@ -8,5 +8,5 @@ MarkupSafe
 numpy
 scipy
 Werkzeug
-xgboost
+xgboost==2.0.1
 gunicorn
