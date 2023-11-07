@@ -9,3 +9,4 @@ numpy
 scipy
 Werkzeug
 gunicorn
+scikit-learn
