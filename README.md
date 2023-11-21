@@ -27,10 +27,21 @@ for different purpose like
 - Mean Squared Error (MSE): 7073299.0357
 - Mean Absolute Error (MAE): 1028.2545
 - R-squared (R2) Score: 0.8161
+- Deployed the model in render using Flask app and Docker
 
 # 4 - Challenges and Solutions:
-- Challenges: Limit data
-- Solutions : Utilized models like Random Forest (with tuned hyperparameters) that are robust and less prone to overfitting, making the model more reliable when dealing with limited data.
+- Challenges:
+      -  Limited availability of data posed a significant challenge, 
+      impacting the model's ability to generalize and make accurate 
+      predictions
+      -  Problem faced while deployment due to different 
+      version of dependencies.
+- Solutions :
+      -  Utilized several models but Random Forest (with tuned       
+      hyperparameters) was robust and less prone to overfitting,      
+      making the model more reliable when dealing with limited data.
+      -  To overcome deployment challenges related to different 
+      version of dependencies , we adopted Docker for containerization .
 
 # 5 - Visualizations:
 
