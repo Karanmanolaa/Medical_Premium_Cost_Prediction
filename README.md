@@ -11,6 +11,7 @@
 
 # 1- Overview :
 The main aim of the "Medical Premium Cost Prediction" project is to create a machine learning model that estimates how much your health insurance premium will cost.The dataset is collected from kaggle which consists of around 1000 insurance premium values on the basis of columns like Age,	Diabetes,	BloodPressureProblems,	AnyTransplants,	AnyChronicDiseases,	Height,	Weight,	KnownAllergies,	HistoryOfCancerInFamily,	NumberOfMajorSurgeries.
+At the last deployed the model in render using flask and docker.
 
 
 # 2- Problem Statement and Motivation :
