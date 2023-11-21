@@ -27,7 +27,7 @@ for different purpose like
 - Mean Squared Error (MSE): 7073299.0357
 - Mean Absolute Error (MAE): 1028.2545
 - R-squared (R2) Score: 0.8161
-- Deployed the model in render using Flask app and Docker
+- Deployed the model in render using Flask and Docker
 
 # 4 - Challenges and Solutions:
 - Challenges:
