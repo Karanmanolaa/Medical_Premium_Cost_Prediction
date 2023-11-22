@@ -1,5 +1,7 @@
 # Project 2 - Medical_premium_cost_prediction
 
+Explore the live application: [Medical Premium Cost Prediction](https://medical-premium-cost-prediction.onrender.com)
+
 # Table of Content
 - Overview
 - Problem Statement and Motivation
