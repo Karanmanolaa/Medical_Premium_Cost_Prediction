@@ -9,6 +9,7 @@ Explore the live application: [Medical Premium Cost Prediction](https://medical-
 - Visualizations
 - Challenges and Solutions
 
+
 ![high-health-care-costs-850x476](https://github.com/Karanmanolaa/Medical_cost_premium_prediction/assets/144649975/73c4a492-3fe9-4cbd-9bc6-c953400518af)
 
 # 1- Overview :
