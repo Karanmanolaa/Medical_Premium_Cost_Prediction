@@ -6,7 +6,7 @@ Explore the live application: [Medical Premium Cost Prediction](https://medical-
 - Overview
 - Problem Statement and Motivation
 - Technical Aspects
-- Visualizations
+- Visualizations 
 - Challenges and Solutions
 
 
